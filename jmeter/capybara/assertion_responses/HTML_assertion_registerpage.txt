@@ -1,0 +1,18 @@
+line 9 column 5 - Warning: unknown attribute "data-turbolinks-track"
+line 9 column 5 - Warning: link lacks "type" attribute
+line 10 column 5 - Warning: unknown attribute "data-turbolinks-track"
+line 10 column 5 - Warning: <script> lacks "type" attribute
+line 47 column 6 - Warning: unknown attribute "autocomplete"
+line 47 column 6 - Warning: unknown attribute "autofocus"
+line 54 column 6 - Warning: unknown attribute "autocomplete"
+line 59 column 6 - Warning: unknown attribute "autocomplete"
+line 71 column 5 - Warning: unknown attribute "data-disable-with"
+line 90 column 37 - Warning: trimming empty <i>
+line 91 column 40 - Warning: trimming empty <i>
+line 92 column 39 - Warning: trimming empty <i>
+line 93 column 38 - Warning: trimming empty <i>
+line 94 column 39 - Warning: trimming empty <i>
+line 97 column 49 - Warning: trimming empty <i>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+15 warnings, no errors were found!

@@ -1,0 +1,520 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1558693783025,64,LoginPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4023,391,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693783084,62,LoginPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4038,381,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,59,0,0
+1558693783097,71,RegisterPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4106,379,3,3,http://vol4-capybara.herokuapp.com/users/sign_up,71,0,0
+1558693783153,61,RegisterPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4114,387,4,4,http://vol4-capybara.herokuapp.com/users/sign_up,61,0,0
+1558693783193,71,LoginPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4044,377,4,4,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693783268,65,RegisterPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4112,393,5,5,http://vol4-capybara.herokuapp.com/users/sign_up,65,0,0
+1558693783276,62,LoggingIn,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,725,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693783297,63,LoggingIn,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,733,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693783297,65,LoginPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4044,391,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693783364,67,RegisterPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4102,393,6,6,http://vol4-capybara.herokuapp.com/users/sign_up,67,0,0
+1558693783367,65,LoginPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4037,385,6,6,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693783410,78,LoggingIn,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,731,7,7,http://vol4-capybara.herokuapp.com/users/sign_in,77,0,0
+1558693783435,70,RegisterPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,393,7,7,http://vol4-capybara.herokuapp.com/users/sign_up,70,0,0
+1558693783490,72,LoginPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4038,385,7,7,http://vol4-capybara.herokuapp.com/users/sign_in,67,0,0
+1558693783565,73,RegisterPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4104,387,8,8,http://vol4-capybara.herokuapp.com/users/sign_up,73,0,0
+1558693783520,127,LoggingIn,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,104,0,0
+1558693783580,72,LoginPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4033,377,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693783601,82,LoggingIn,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,9,9,http://vol4-capybara.herokuapp.com/users/sign_in,82,0,0
+1558693783655,71,RegisterPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4107,389,9,9,http://vol4-capybara.herokuapp.com/users/sign_up,70,0,0
+1558693783697,96,LoginPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693783769,82,LoggingIn,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693783791,63,LoginPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4027,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,63,0,0
+1558693783796,77,RegisterPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,75,0,0
+1558693783820,81,LoggingIn,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,719,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,63,0,0
+1558693783857,65,RegisterPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4104,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,65,0,0
+1558693783905,73,LoginPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4042,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693783960,87,LoggingIn,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693783980,83,RegisterPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,80,0,0
+1558693784110,65,LoggingIn,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693784176,94,LoggingIn,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693784219,138,AddingIngredient,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 4 690 bytes, but should have been less than 1 000 bytes.",4690,1350,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693784219,76,AddingIngredient-0,302,Found,Users 1-1,text,true,,466,710,10,10,http://vol4-capybara.herokuapp.com/ingredients,76,0,0
+1558693784295,62,AddingIngredient-1,200,OK,Users 1-1,text,true,,4224,640,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,55,0,0
+1558693784284,171,AddingIngredient,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 4 684 bytes, but should have been less than 1 000 bytes.",4684,1306,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693784284,71,AddingIngredient-0,302,Found,Users 1-2,text,true,,466,688,10,10,http://vol4-capybara.herokuapp.com/ingredients,71,0,0
+1558693784355,100,AddingIngredient-1,200,OK,Users 1-2,text,true,,4218,618,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,97,0,0
+1558693784357,190,GenereteRecipe,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5453,2095,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,104,0,0
+1558693784357,104,GenereteRecipe-0,302,Found,Users 1-1,text,true,,1071,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,104,0,0
+1558693784461,86,GenereteRecipe-1,200,OK,Users 1-1,text,true,,4382,1102,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693784455,141,GenereteRecipe,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5433,2073,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693784455,72,GenereteRecipe-0,302,Found,Users 1-2,text,true,,1061,981,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,72,0,0
+1558693784527,69,GenereteRecipe-1,200,OK,Users 1-2,text,true,,4372,1092,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693784487,141,AddingIngredient,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 4 688 bytes, but should have been less than 1 000 bytes.",4688,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,66,0,0
+1558693784487,66,AddingIngredient-0,302,Found,Users 1-3,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,66,0,0
+1558693784553,75,AddingIngredient-1,200,OK,Users 1-3,text,true,,4222,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693784664,63,LoginPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4047,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693784630,117,AddingIngredient,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 4 686 bytes, but should have been less than 1 000 bytes.",4686,1338,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693784630,58,AddingIngredient-0,302,Found,Users 1-5,text,true,,466,704,10,10,http://vol4-capybara.herokuapp.com/ingredients,58,0,0
+1558693784689,58,AddingIngredient-1,200,OK,Users 1-5,text,true,,4220,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693784629,143,GenereteRecipe,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5448,2102,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693784629,62,GenereteRecipe-0,302,Found,Users 1-3,text,true,,1079,992,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,62,0,0
+1558693784691,81,GenereteRecipe-1,200,OK,Users 1-3,text,true,,4369,1110,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693784709,99,LoginPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4027,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,99,0,0
+1558693784633,204,AddingIngredient,200,OK,Users 1-4,text,false,"The operation lasted too long: It took 204 milliseconds, but should not have lasted longer than 200 milliseconds.",4686,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
+1558693784633,69,AddingIngredient-0,302,Found,Users 1-4,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,69,0,0
+1558693784702,135,AddingIngredient-1,200,OK,Users 1-4,text,true,,4220,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,132,0,0
+1558693784811,77,RegisterPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4122,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,75,0,0
+1558693784747,203,GenereteRecipe,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5480,2105,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693784747,81,GenereteRecipe-0,302,Found,Users 1-5,text,true,,1085,989,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,81,0,0
+1558693784828,122,GenereteRecipe-1,200,OK,Users 1-5,text,true,,4395,1116,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,120,0,0
+1558693784796,170,AddingIngredient,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 4 673 bytes, but should have been less than 1 000 bytes.",4673,1326,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,56,0,0
+1558693784796,56,AddingIngredient-0,302,Found,Users 1-6,text,true,,466,698,10,10,http://vol4-capybara.herokuapp.com/ingredients,56,0,0
+1558693784852,114,AddingIngredient-1,200,OK,Users 1-6,text,true,,4207,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,114,0,0
+1558693784930,69,LoginPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693784838,189,GenereteRecipe,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5438,2075,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,90,0,0
+1558693784838,90,GenereteRecipe-0,302,Found,Users 1-4,text,true,,1059,985,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,90,0,0
+1558693784928,99,GenereteRecipe-1,200,OK,Users 1-4,text,true,,4379,1090,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,99,0,0
+1558693784920,124,AddingIngredient,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 4 686 bytes, but should have been less than 1 000 bytes.",4686,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693784920,57,AddingIngredient-0,302,Found,Users 1-7,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,57,0,0
+1558693784977,67,AddingIngredient-1,200,OK,Users 1-7,text,true,,4220,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,63,0,0
+1558693785001,60,RegisterPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4102,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,60,0,0
+1558693784730,331,RegisterPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4116,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,324,0,0
+1558693785023,63,LoggingIn,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,727,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693784966,143,GenereteRecipe,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5471,2093,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,59,0,0
+1558693784966,59,GenereteRecipe-0,302,Found,Users 1-6,text,true,,1079,983,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,59,0,0
+1558693785025,84,GenereteRecipe-1,200,OK,Users 1-6,text,true,,4392,1110,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,79,0,0
+1558693785057,127,LoginPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4034,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,114,0,0
+1558693785027,166,AddingIngredient,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 4 689 bytes, but should have been less than 1 000 bytes.",4689,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693785027,61,AddingIngredient-0,302,Found,Users 1-8,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,61,0,0
+1558693785088,105,AddingIngredient-1,200,OK,Users 1-8,text,true,,4223,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,105,0,0
+1558693785045,161,GenereteRecipe,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5440,2087,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,60,0,0
+1558693785045,60,GenereteRecipe-0,302,Found,Users 1-7,text,true,,1073,983,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,60,0,0
+1558693785105,101,GenereteRecipe-1,200,OK,Users 1-7,text,true,,4367,1104,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,0
+1558693785144,88,LoginPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4038,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,85,0,0
+1558693785063,201,AddingIngredient,200,OK,Users 1-9,text,false,"The operation lasted too long: It took 201 milliseconds, but should not have lasted longer than 200 milliseconds.",4721,1338,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693785063,72,AddingIngredient-0,302,Found,Users 1-9,text,true,,466,704,10,10,http://vol4-capybara.herokuapp.com/ingredients,72,0,0
+1558693785136,128,AddingIngredient-1,200,OK,Users 1-9,text,true,,4255,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,121,0,0
+1558693785187,82,RegisterPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4117,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,78,0,0
+1558693785234,85,RegisterPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,76,0,0
+1558693785185,148,AddingIngredient,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 4 690 bytes, but should have been less than 1 000 bytes.",4690,1330,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,83,0,0
+1558693785185,83,AddingIngredient-0,302,Found,Users 1-10,text,true,,466,700,10,10,http://vol4-capybara.herokuapp.com/ingredients,83,0,0
+1558693785268,65,AddingIngredient-1,200,OK,Users 1-10,text,true,,4224,630,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,63,0,0
+1558693785247,100,LoggingIn,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,96,0,0
+1558693785266,81,LoginPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4043,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,77,0,0
+1558693785313,73,LoginPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4030,381,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,67,0,0
+1558693785194,198,GenereteRecipe,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5479,2114,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693785194,81,GenereteRecipe-0,302,Found,Users 1-8,text,true,,1083,1000,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,81,0,0
+1558693785275,117,GenereteRecipe-1,200,OK,Users 1-8,text,true,,4396,1114,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,114,0,0
+1558693785264,151,LoggingIn,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,131,0,0
+1558693785265,150,GenereteRecipe,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5418,2103,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,82,0,0
+1558693785265,82,GenereteRecipe-0,302,Found,Users 1-9,text,true,,1059,1013,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,82,0,0
+1558693785347,68,GenereteRecipe-1,200,OK,Users 1-9,text,true,,4359,1090,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,68,0,0
+1558693785349,77,RegisterPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,71,0,0
+1558693785271,229,Registration,200,OK,Users 1-5,text,false,"The operation lasted too long: It took 229 milliseconds, but should not have lasted longer than 200 milliseconds.",4222,13399,10,10,http://vol4-capybara.herokuapp.com/users,225,0,0
+1558693785333,170,GenereteRecipe,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5454,2105,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,83,0,0
+1558693785333,83,GenereteRecipe-0,302,Found,Users 1-10,text,true,,1081,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,83,0,0
+1558693785416,87,GenereteRecipe-1,200,OK,Users 1-10,text,true,,4373,1112,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693785389,116,RegisterPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4108,379,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,116,0,0
+1558693785395,206,HomePage,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 206 milliseconds, but should not have lasted longer than 200 milliseconds.",2989,131,10,10,http://vol4-capybara.herokuapp.com/,161,0,103
+1558693785502,102,LoggingIn,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,98,0,0
+1558693785500,131,LoggingIn,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,729,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,131,0,0
+1558693785514,117,LoggingIn,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,117,0,0
+1558693785603,63,LoginPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,55,0,0
+1558693785603,71,LoginPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4027,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693785653,71,LoggingIn,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,727,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693785503,234,SpecificProductPage,200,OK,Users 1-1,text,false,"The operation lasted too long: It took 234 milliseconds, but should not have lasted longer than 200 milliseconds.",5151,1186,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,141,0,0
+1558693785503,141,SpecificProductPage-0,302,Found,Users 1-1,text,true,,921,556,10,10,http://vol4-capybara.herokuapp.com/products/200,141,0,0
+1558693785644,93,SpecificProductPage-1,200,OK,Users 1-1,text,true,,4230,630,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,80,0,0
+1558693785636,79,LoginPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4033,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,79,0,0
+1558693785668,80,RegisterPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4107,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,74,0,0
+1558693785676,91,RegisterPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4108,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,91,0,0
+1558693785740,58,RegisterPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4106,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,58,0,0
+1558693785776,211,SpecificProductPage,200,OK,Users 1-6,text,false,"The operation lasted too long: It took 211 milliseconds, but should not have lasted longer than 200 milliseconds.",5149,1186,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,90,0,0
+1558693785776,90,SpecificProductPage-0,302,Found,Users 1-6,text,true,,921,556,10,10,http://vol4-capybara.herokuapp.com/products/200,90,0,0
+1558693785866,121,SpecificProductPage-1,200,OK,Users 1-6,text,true,,4228,630,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,118,0,0
+1558693785886,122,LoggingIn,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,719,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,113,0,0
+1558693785778,263,Registration,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 263 milliseconds, but should not have lasted longer than 200 milliseconds.",4208,13390,10,10,http://vol4-capybara.herokuapp.com/users,263,0,0
+1558693785854,205,SpecificProductPage,200,OK,Users 1-7,text,false,"The operation lasted too long: It took 205 milliseconds, but should not have lasted longer than 200 milliseconds.",5126,1170,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693785854,87,SpecificProductPage-0,302,Found,Users 1-7,text,true,,911,550,10,10,http://vol4-capybara.herokuapp.com/products/213,87,0,0
+1558693785942,117,SpecificProductPage-1,200,OK,Users 1-7,text,true,,4215,620,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,117,0,0
+1558693785963,128,LoggingIn,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,725,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,128,0,0
+1558693786042,173,LoggingIn,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,727,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,147,0,0
+1558693786008,253,ProductsPage,200,OK,Users 1-9,text,false,"The operation lasted too long: It took 253 milliseconds, but should not have lasted longer than 200 milliseconds.",5109,978,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693786008,93,ProductsPage-0,302,Found,Users 1-9,text,true,,893,376,10,10,http://vol4-capybara.herokuapp.com/products,93,0,0
+1558693786102,159,ProductsPage-1,200,OK,Users 1-9,text,true,,4216,602,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,158,0,0
+1558693786074,213,AddingIngredient,200,OK,Users 1-2,text,false,"The operation lasted too long: It took 213 milliseconds, but should not have lasted longer than 200 milliseconds.",4700,1350,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693786074,65,AddingIngredient-0,302,Found,Users 1-2,text,true,,466,710,10,10,http://vol4-capybara.herokuapp.com/ingredients,65,0,0
+1558693786139,148,AddingIngredient-1,200,OK,Users 1-2,text,true,,4234,640,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,138,0,0
+1558693786091,220,ProductsPage,200,OK,Users 1-10,text,false,"The operation lasted too long: It took 220 milliseconds, but should not have lasted longer than 200 milliseconds.",5119,1004,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,114,0,0
+1558693786091,114,ProductsPage-0,302,Found,Users 1-10,text,true,,913,382,10,10,http://vol4-capybara.herokuapp.com/products,114,0,0
+1558693786205,106,ProductsPage-1,200,OK,Users 1-10,text,true,,4206,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,99,0,0
+1558693786288,181,GenereteRecipe,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5446,2105,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,88,0,0
+1558693786288,88,GenereteRecipe-0,302,Found,Users 1-2,text,true,,1077,997,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,88,0,0
+1558693786376,93,GenereteRecipe-1,200,OK,Users 1-2,text,true,,4369,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693786439,133,AddingIngredient,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 4 684 bytes, but should have been less than 1 000 bytes.",4684,1326,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
+1558693786439,69,AddingIngredient-0,302,Found,Users 1-3,text,true,,466,698,10,10,http://vol4-capybara.herokuapp.com/ingredients,69,0,0
+1558693786508,64,AddingIngredient-1,200,OK,Users 1-3,text,true,,4218,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693786343,249,NewIngredientPage,200,OK,Users 1-1,text,false,"The operation lasted too long: It took 249 milliseconds, but should not have lasted longer than 200 milliseconds.",5139,1193,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,0
+1558693786343,101,NewIngredientPage-0,302,Found,Users 1-1,text,true,,913,571,10,10,http://vol4-capybara.herokuapp.com/ingredients/new,101,0,0
+1558693786444,148,NewIngredientPage-1,200,OK,Users 1-1,text,true,,4226,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,141,0,0
+1558693786608,62,LoginPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,379,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693786573,197,GenereteRecipe,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5447,2086,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693786573,81,GenereteRecipe-0,302,Found,Users 1-3,text,true,,1067,988,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,81,0,0
+1558693786654,116,GenereteRecipe-1,200,OK,Users 1-3,text,true,,4380,1098,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,111,0,0
+1558693786593,208,AddingIngredient,200,OK,Users 1-1,text,false,"The operation lasted too long: It took 208 milliseconds, but should not have lasted longer than 200 milliseconds.",4685,1326,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,116,0,52
+1558693786593,116,AddingIngredient-0,302,Found,Users 1-1,text,true,,466,698,10,10,http://vol4-capybara.herokuapp.com/ingredients,116,0,52
+1558693786709,92,AddingIngredient-1,200,OK,Users 1-1,text,true,,4219,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,92,0,0
+1558693786673,136,RegisterPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,134,0,0
+1558693786655,180,AddingIngredient,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 4 690 bytes, but should have been less than 1 000 bytes.",4690,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,110,0,0
+1558693786655,117,AddingIngredient-0,302,Found,Users 1-4,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,110,0,0
+1558693786772,63,AddingIngredient-1,200,OK,Users 1-4,text,true,,4224,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693786799,137,AddingIngredient,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 4 686 bytes, but should have been less than 1 000 bytes.",4686,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693786799,57,AddingIngredient-0,302,Found,Users 1-5,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,57,0,0
+1558693786856,80,AddingIngredient-1,200,OK,Users 1-5,text,true,,4220,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,80,0,0
+1558693786799,197,AddingIngredient,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 4 683 bytes, but should have been less than 1 000 bytes.",4683,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,74,0,0
+1558693786799,74,AddingIngredient-0,302,Found,Users 1-6,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,74,0,0
+1558693786873,123,AddingIngredient-1,200,OK,Users 1-6,text,true,,4217,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,123,0,0
+1558693786801,201,GenereteRecipe,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5467,2113,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693786801,71,GenereteRecipe-0,302,Found,Users 1-1,text,true,,1087,995,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,71,0,0
+1558693786872,130,GenereteRecipe-1,200,OK,Users 1-1,text,true,,4380,1118,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,127,0,0
+1558693786836,194,GenereteRecipe,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5459,2103,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693786836,65,GenereteRecipe-0,302,Found,Users 1-4,text,true,,1079,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,65,0,0
+1558693786901,129,GenereteRecipe-1,200,OK,Users 1-4,text,true,,4380,1110,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,127,0,0
+1558693786840,202,AddingIngredient,200,OK,Users 1-7,text,false,"The operation lasted too long: It took 202 milliseconds, but should not have lasted longer than 200 milliseconds.",4683,1338,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,73,0,0
+1558693786840,73,AddingIngredient-0,302,Found,Users 1-7,text,true,,466,704,10,10,http://vol4-capybara.herokuapp.com/ingredients,73,0,0
+1558693786913,129,AddingIngredient-1,200,OK,Users 1-7,text,true,,4217,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,129,0,0
+1558693786915,120,LoginPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4040,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,110,0,0
+1558693786975,77,LoggingIn,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,77,0,0
+1558693787044,106,RegisterPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,85,0,0
+1558693786997,161,GenereteRecipe,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5445,2093,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,59,0,0
+1558693786997,59,GenereteRecipe-0,302,Found,Users 1-6,text,true,,1069,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,59,0,0
+1558693787056,102,GenereteRecipe-1,200,OK,Users 1-6,text,true,,4376,1100,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,91,0,0
+1558693787043,133,AddingIngredient,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 4 685 bytes, but should have been less than 1 000 bytes.",4685,1318,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693787043,62,AddingIngredient-0,302,Found,Users 1-9,text,true,,466,694,10,10,http://vol4-capybara.herokuapp.com/ingredients,62,0,0
+1558693787105,71,AddingIngredient-1,200,OK,Users 1-9,text,true,,4219,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693787043,169,GenereteRecipe,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5472,2091,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693787131,79,LoginPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4039,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,75,0,0
+1558693787043,61,GenereteRecipe-0,302,Found,Users 1-7,text,true,,1073,987,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,61,0,0
+1558693787104,108,GenereteRecipe-1,200,OK,Users 1-7,text,true,,4399,1104,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,0
+1558693786937,275,GenereteRecipe,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5434,2081,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,0
+1558693786937,101,GenereteRecipe-0,302,Found,Users 1-5,text,true,,1065,985,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,101,0,0
+1558693787038,174,GenereteRecipe-1,200,OK,Users 1-5,text,true,,4369,1096,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,174,0,43
+1558693787074,203,NewIngredientPage,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 203 milliseconds, but should not have lasted longer than 200 milliseconds.",5155,1195,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,132,0,0
+1558693787074,132,NewIngredientPage-0,302,Found,Users 1-8,text,true,,925,561,10,10,http://vol4-capybara.herokuapp.com/ingredients/new,132,0,0
+1558693787206,71,NewIngredientPage-1,200,OK,Users 1-8,text,true,,4230,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
+1558693787170,128,AddingIngredient,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 4 697 bytes, but should have been less than 1 000 bytes.",4697,1318,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693787170,64,AddingIngredient-0,302,Found,Users 1-10,text,true,,466,694,10,10,http://vol4-capybara.herokuapp.com/ingredients,64,0,0
+1558693787234,64,AddingIngredient-1,200,OK,Users 1-10,text,true,,4231,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693787214,115,RegisterPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4125,381,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,115,0,0
+1558693787213,120,LoginPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4033,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,120,0,0
+1558693787176,150,GenereteRecipe,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5442,2087,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693787176,61,GenereteRecipe-0,302,Found,Users 1-9,text,true,,1065,991,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,61,0,0
+1558693787237,89,GenereteRecipe-1,200,OK,Users 1-9,text,true,,4377,1096,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,79,0,0
+1558693787334,68,LoggingIn,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693787350,68,LoginPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4026,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693787278,148,AddingIngredient,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 4 696 bytes, but should have been less than 1 000 bytes.",4696,1334,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,73,0,0
+1558693787278,73,AddingIngredient-0,302,Found,Users 1-8,text,true,,466,702,10,10,http://vol4-capybara.herokuapp.com/ingredients,73,0,0
+1558693787351,75,AddingIngredient-1,200,OK,Users 1-8,text,true,,4230,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,73,0,0
+1558693787348,81,RegisterPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,76,0,0
+1558693787299,144,GenereteRecipe,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5443,2087,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,55,0,0
+1558693787299,55,GenereteRecipe-0,302,Found,Users 1-10,text,true,,1063,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,55,0,0
+1558693787355,88,GenereteRecipe-1,200,OK,Users 1-10,text,true,,4380,1094,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693787355,89,LoginPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4059,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,85,0,0
+1558693787351,101,LoginPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4046,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,98,0,0
+1558693787425,60,RegisterPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4119,375,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,60,0,0
+1558693787448,67,RegisterPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4116,401,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,54,0,0
+1558693787453,74,LoggingIn,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,737,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693787455,108,RegisterPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4122,395,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,92,0,0
+1558693787459,130,LoginPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4047,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,124,0,0
+1558693787499,117,LoggingIn,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,115,0,0
+1558693787563,99,LoginPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4032,397,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,88,0,0
+1558693787427,237,GenereteRecipe,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5441,2098,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,124,0,45
+1558693787427,124,GenereteRecipe-0,302,Found,Users 1-8,text,true,,1067,1000,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,124,0,45
+1558693787551,113,GenereteRecipe-1,200,OK,Users 1-8,text,true,,4374,1098,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,106,0,0
+1558693787633,83,LoggingIn,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,731,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,83,0,0
+1558693787615,107,LoggingIn,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693787591,109,RegisterPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,105,0,0
+1558693787670,72,RegisterPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4119,381,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,69,0,0
+1558693787736,77,LoggingIn,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,727,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693787785,192,LoginPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4029,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,192,0,0
+1558693787745,246,Registration,200,OK,Users 1-10,text,false,"The operation lasted too long: It took 246 milliseconds, but should not have lasted longer than 200 milliseconds.",4208,13408,10,10,http://vol4-capybara.herokuapp.com/users,246,0,0
+1558693787722,284,ProductsPage,200,OK,Users 1-7,text,false,"The operation lasted too long: It took 284 milliseconds, but should not have lasted longer than 200 milliseconds.",5107,992,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693787722,93,ProductsPage-0,302,Found,Users 1-7,text,true,,905,378,10,10,http://vol4-capybara.herokuapp.com/products,93,0,0
+1558693787815,191,ProductsPage-1,200,OK,Users 1-7,text,true,,4202,614,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693787889,124,LoggingIn,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,124,0,0
+1558693787813,255,ProductsPage,200,OK,Users 1-6,text,false,"The operation lasted too long: It took 255 milliseconds, but should not have lasted longer than 200 milliseconds.",5094,990,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,100,0,0
+1558693787813,100,ProductsPage-0,302,Found,Users 1-6,text,true,,897,384,10,10,http://vol4-capybara.herokuapp.com/products,100,0,0
+1558693787913,155,ProductsPage-1,200,OK,Users 1-6,text,true,,4197,606,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,155,0,0
+1558693787979,86,RegisterPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4100,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,86,0,0
+1558693787991,86,LoggingIn,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,731,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,86,0,0
+1558693788192,114,LoggingIn,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,719,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,110,0,0
+1558693787900,423,SpecificProductPage,200,OK,Users 1-5,text,false,"The operation lasted too long: It took 423 milliseconds, but should not have lasted longer than 200 milliseconds.",5143,1186,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,348,0,0
+1558693787900,348,SpecificProductPage-0,302,Found,Users 1-5,text,true,,923,554,10,10,http://vol4-capybara.herokuapp.com/products/213,348,0,0
+1558693788248,75,SpecificProductPage-1,200,OK,Users 1-5,text,true,,4220,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693788354,188,AddingIngredient,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 4 687 bytes, but should have been less than 1 000 bytes.",4687,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,67,0,0
+1558693788354,67,AddingIngredient-0,302,Found,Users 1-2,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,67,0,0
+1558693788421,121,AddingIngredient-1,200,OK,Users 1-2,text,true,,4221,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,121,0,0
+1558693788411,230,AddingIngredient,200,OK,Users 1-3,text,false,"The operation lasted too long: It took 230 milliseconds, but should not have lasted longer than 200 milliseconds.",4702,1334,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,130,0,0
+1558693788411,130,AddingIngredient-0,302,Found,Users 1-3,text,true,,466,702,10,10,http://vol4-capybara.herokuapp.com/ingredients,130,0,0
+1558693788541,100,AddingIngredient-1,200,OK,Users 1-3,text,true,,4236,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,96,0,0
+1558693788505,147,AddingIngredient,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 4 696 bytes, but should have been less than 1 000 bytes.",4696,1298,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,68,0,0
+1558693788505,68,AddingIngredient-0,302,Found,Users 1-4,text,true,,466,684,10,10,http://vol4-capybara.herokuapp.com/ingredients,68,0,0
+1558693788573,79,AddingIngredient-1,200,OK,Users 1-4,text,true,,4230,614,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693788471,227,SpecificProductPage,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 227 milliseconds, but should not have lasted longer than 200 milliseconds.",5129,1180,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,105,0,0
+1558693788471,105,SpecificProductPage-0,302,Found,Users 1-8,text,true,,909,562,10,10,http://vol4-capybara.herokuapp.com/products/300,105,0,0
+1558693788576,122,SpecificProductPage-1,200,OK,Users 1-8,text,true,,4220,618,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,120,0,0
+1558693788541,188,AddingIngredient,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 4 699 bytes, but should have been less than 1 000 bytes.",4699,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,77,0,0
+1558693788541,77,AddingIngredient-0,302,Found,Users 1-1,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,77,0,0
+1558693788618,111,AddingIngredient-1,200,OK,Users 1-1,text,true,,4233,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,110,0,0
+1558693788542,238,GenereteRecipe,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5463,2093,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,171,0,43
+1558693788542,171,GenereteRecipe-0,302,Found,Users 1-2,text,true,,1065,997,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,171,0,43
+1558693788713,67,GenereteRecipe-1,200,OK,Users 1-2,text,true,,4398,1096,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693788641,181,GenereteRecipe,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5453,2107,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693788641,94,GenereteRecipe-0,302,Found,Users 1-3,text,true,,1077,999,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,94,0,0
+1558693788736,86,GenereteRecipe-1,200,OK,Users 1-3,text,true,,4376,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,82,0,0
+1558693788607,252,NewIngredientPage,200,OK,Users 1-7,text,false,"The operation lasted too long: It took 252 milliseconds, but should not have lasted longer than 200 milliseconds.",5153,1211,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,168,0,0
+1558693788607,168,NewIngredientPage-0,302,Found,Users 1-7,text,true,,921,581,10,10,http://vol4-capybara.herokuapp.com/ingredients/new,168,0,0
+1558693788775,84,NewIngredientPage-1,200,OK,Users 1-7,text,true,,4232,630,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,74,0,0
+1558693788729,176,GenereteRecipe,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5467,2116,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693788729,72,GenereteRecipe-0,302,Found,Users 1-1,text,true,,1089,996,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,72,0,0
+1558693788801,104,GenereteRecipe-1,200,OK,Users 1-1,text,true,,4378,1120,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,102,0,0
+1558693788653,262,GenereteRecipe,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5435,2087,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,149,0,0
+1558693788653,149,GenereteRecipe-0,302,Found,Users 1-4,text,true,,1061,995,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,149,0,0
+1558693788802,113,GenereteRecipe-1,200,OK,Users 1-4,text,true,,4374,1092,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,104,0,0
+1558693788940,84,LoginPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4040,401,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693788859,176,AddingIngredient,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 4 673 bytes, but should have been less than 1 000 bytes.",4673,1338,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693788859,78,AddingIngredient-0,302,Found,Users 1-7,text,true,,466,704,10,10,http://vol4-capybara.herokuapp.com/ingredients,78,0,0
+1558693788937,98,AddingIngredient-1,200,OK,Users 1-7,text,true,,4207,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,98,0,0
+1558693788955,89,LoginPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,86,0,0
+1558693788946,165,AddingIngredient,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 4 685 bytes, but should have been less than 1 000 bytes.",4685,1334,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,98,0,0
+1558693788946,98,AddingIngredient-0,302,Found,Users 1-6,text,true,,466,702,10,10,http://vol4-capybara.herokuapp.com/ingredients,98,0,0
+1558693789044,67,AddingIngredient-1,200,OK,Users 1-6,text,true,,4219,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,67,0,0
+1558693789046,83,RegisterPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4100,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,83,0,0
+1558693789026,106,RegisterPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4117,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,96,0,0
+1558693788900,247,NewIngredientPage,200,OK,Users 1-9,text,false,"The operation lasted too long: It took 247 milliseconds, but should not have lasted longer than 200 milliseconds.",5132,1203,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693788900,64,NewIngredientPage-0,302,Found,Users 1-9,text,true,,925,569,10,10,http://vol4-capybara.herokuapp.com/ingredients/new,64,0,0
+1558693788964,183,NewIngredientPage-1,200,OK,Users 1-9,text,true,,4207,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,183,0,0
+1558693789045,106,LoginPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4042,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,0
+1558693789062,98,LoginPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4027,379,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,98,0,0
+1558693789036,147,GenereteRecipe,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5444,2091,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693789036,93,GenereteRecipe-0,302,Found,Users 1-7,text,true,,1077,983,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,93,0,0
+1558693789129,54,GenereteRecipe-1,200,OK,Users 1-7,text,true,,4367,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,54,0,0
+1558693789060,200,AddingIngredient,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 4 676 bytes, but should have been less than 1 000 bytes.",4676,1318,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,90,0,0
+1558693789060,91,AddingIngredient-0,302,Found,Users 1-5,text,true,,466,694,10,10,http://vol4-capybara.herokuapp.com/ingredients,90,0,0
+1558693789151,109,AddingIngredient-1,200,OK,Users 1-5,text,true,,4210,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,106,0,0
+1558693789154,114,RegisterPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4115,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,105,0,0
+1558693789111,163,AddingIngredient,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 4 688 bytes, but should have been less than 1 000 bytes.",4688,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693789111,58,AddingIngredient-0,302,Found,Users 1-10,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,58,0,0
+1558693789169,105,AddingIngredient-1,200,OK,Users 1-10,text,true,,4222,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,99,0,0
+1558693789148,148,AddingIngredient,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 4 691 bytes, but should have been less than 1 000 bytes.",4691,1302,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693789148,78,AddingIngredient-0,302,Found,Users 1-9,text,true,,466,686,10,10,http://vol4-capybara.herokuapp.com/ingredients,78,0,0
+1558693789226,70,AddingIngredient-1,200,OK,Users 1-9,text,true,,4225,616,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693789162,159,RegisterPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,155,0,0
+1558693789111,230,GenereteRecipe,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5462,2107,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693789111,58,GenereteRecipe-0,302,Found,Users 1-6,text,true,,1081,995,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,58,0,0
+1558693789169,172,GenereteRecipe-1,200,OK,Users 1-6,text,true,,4381,1112,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,168,0,42
+1558693789214,132,LoggingIn,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,729,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,129,0,0
+1558693789306,59,LoggingIn,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,719,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693789333,81,LoginPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4040,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,77,0,0
+1558693789296,146,GenereteRecipe,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5455,2104,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,54,0,0
+1558693789296,54,GenereteRecipe-0,302,Found,Users 1-9,text,true,,1071,1002,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,54,0,0
+1558693789350,92,GenereteRecipe-1,200,OK,Users 1-9,text,true,,4384,1102,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,90,0,0
+1558693789274,189,GenereteRecipe,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5431,2079,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693789274,70,GenereteRecipe-0,302,Found,Users 1-10,text,true,,1061,987,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,70,0,0
+1558693789344,119,GenereteRecipe-1,200,OK,Users 1-10,text,true,,4370,1092,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,117,0,0
+1558693789380,102,LoggingIn,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,727,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,102,0,0
+1558693789416,82,RegisterPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,75,0,0
+1558693789441,87,LoggingIn,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 3 780 bytes, but should have been less than 1 000 bytes.",3780,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693789260,270,GenereteRecipe,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5439,2081,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,120,0,44
+1558693789260,120,GenereteRecipe-0,302,Found,Users 1-5,text,true,,1077,973,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,120,0,44
+1558693789380,150,GenereteRecipe-1,200,OK,Users 1-5,text,true,,4362,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,146,0,0
+1558693789513,103,LoginPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4032,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,100,0,0
+1558693789614,67,LoggingIn,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,67,0,0
+1558693789411,317,AddingIngredient,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 317 milliseconds, but should not have lasted longer than 200 milliseconds.",4687,1306,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,95,0,0
+1558693789411,95,AddingIngredient-0,302,Found,Users 1-8,text,true,,466,688,10,10,http://vol4-capybara.herokuapp.com/ingredients,95,0,0
+1558693789506,222,AddingIngredient-1,200,OK,Users 1-8,text,true,,4221,618,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,222,0,0
+1558693789465,265,HomePage,200,OK,Users 1-10,text,false,"The operation lasted too long: It took 265 milliseconds, but should not have lasted longer than 200 milliseconds.",2988,131,10,10,http://vol4-capybara.herokuapp.com/,265,0,43
+1558693789733,73,LoginPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4029,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,73,0,0
+1558693789808,64,RegisterPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4110,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,64,0,0
+1558693789729,162,GenereteRecipe,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5442,2105,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,101,0,46
+1558693789729,101,GenereteRecipe-0,302,Found,Users 1-8,text,true,,1077,997,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,101,0,46
+1558693789830,61,GenereteRecipe-1,200,OK,Users 1-8,text,true,,4365,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693789346,551,ProductsPage,200,OK,Users 1-2,text,false,"The operation lasted too long: It took 551 milliseconds, but should not have lasted longer than 200 milliseconds.",5105,994,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,118,0,0
+1558693789346,118,ProductsPage-0,302,Found,Users 1-2,text,true,,899,386,10,10,http://vol4-capybara.herokuapp.com/products,118,0,0
+1558693789464,433,ProductsPage-1,200,OK,Users 1-2,text,true,,4206,608,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,433,0,0
+1558693789444,516,HomePage,200,OK,Users 1-9,text,false,"The operation lasted too long: It took 516 milliseconds, but should not have lasted longer than 200 milliseconds.",2987,131,10,10,http://vol4-capybara.herokuapp.com/,516,0,42
+1558693789620,359,RegisterPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,381,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,359,0,0
+1558693789963,89,LoginPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4021,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,89,0,0
+1558693789641,414,LoginPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4033,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,414,0,0
+1558693789482,596,ProductsPage,200,OK,Users 1-1,text,false,"The operation lasted too long: It took 596 milliseconds, but should not have lasted longer than 200 milliseconds.",5101,986,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,478,0,0
+1558693789482,478,ProductsPage-0,302,Found,Users 1-1,text,true,,893,384,10,10,http://vol4-capybara.herokuapp.com/products,478,0,0
+1558693789961,117,ProductsPage-1,200,OK,Users 1-1,text,true,,4208,602,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,75,0,0
+1558693790009,94,LoggingIn,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,729,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693790023,82,LoginPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4034,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693789898,214,SpecificProductPage,200,OK,Users 1-2,text,false,"The operation lasted too long: It took 214 milliseconds, but should not have lasted longer than 200 milliseconds.",5135,1182,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693789898,78,SpecificProductPage-0,302,Found,Users 1-2,text,true,,919,554,10,10,http://vol4-capybara.herokuapp.com/products/200,78,0,0
+1558693789976,136,SpecificProductPage-1,200,OK,Users 1-2,text,true,,4216,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,92,0,0
+1558693790055,74,RegisterPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4114,377,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,74,0,0
+1558693790082,76,LoggingIn,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693790058,121,RegisterPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4113,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,116,0,0
+1558693789806,435,SpecificProductPage,200,OK,Users 1-7,text,false,"The operation lasted too long: It took 435 milliseconds, but should not have lasted longer than 200 milliseconds.",5139,1188,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693789806,352,SpecificProductPage-0,302,Found,Users 1-7,text,true,,913,566,10,10,http://vol4-capybara.herokuapp.com/products/300,61,0,0
+1558693790158,83,SpecificProductPage-1,200,OK,Users 1-7,text,true,,4226,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693790108,125,RegisterPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4102,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,125,0,0
+1558693790079,210,SpecificProductPage,200,OK,Users 1-1,text,false,"The operation lasted too long: It took 210 milliseconds, but should not have lasted longer than 200 milliseconds.",5143,1190,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693790079,94,SpecificProductPage-0,302,Found,Users 1-1,text,true,,925,556,10,10,http://vol4-capybara.herokuapp.com/products/256,94,0,0
+1558693790174,115,SpecificProductPage-1,200,OK,Users 1-1,text,true,,4218,634,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,74,0,0
+1558693790275,88,LoggingIn,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,733,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,88,0,0
+1558693790237,210,NewIngredientPage,200,OK,Users 1-3,text,false,"The operation lasted too long: It took 210 milliseconds, but should not have lasted longer than 200 milliseconds.",5146,1195,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,59,0,0
+1558693790237,59,NewIngredientPage-0,302,Found,Users 1-3,text,true,,923,563,10,10,http://vol4-capybara.herokuapp.com/ingredients/new,59,0,0
+1558693790296,151,NewIngredientPage-1,200,OK,Users 1-3,text,true,,4223,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,151,0,0
+1558693790322,132,LoggingIn,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,725,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,132,0,0
+1558693790330,206,SpecificProductPage,200,OK,Users 1-6,text,false,"The operation lasted too long: It took 206 milliseconds, but should not have lasted longer than 200 milliseconds.",5153,1174,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,115,0,0
+1558693790330,115,SpecificProductPage-0,302,Found,Users 1-6,text,true,,915,550,10,10,http://vol4-capybara.herokuapp.com/products/200,115,0,0
+1558693790445,91,SpecificProductPage-1,200,OK,Users 1-6,text,true,,4238,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,84,0,0
+1558693790452,90,LoggingIn,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693790448,139,AddingIngredient,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 4 675 bytes, but should have been less than 1 000 bytes.",4675,1334,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693790448,78,AddingIngredient-0,302,Found,Users 1-3,text,true,,466,702,10,10,http://vol4-capybara.herokuapp.com/ingredients,78,0,0
+1558693790526,61,AddingIngredient-1,200,OK,Users 1-3,text,true,,4209,632,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693790588,146,GenereteRecipe,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5456,2093,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,51,0,0
+1558693790588,51,GenereteRecipe-0,302,Found,Users 1-3,text,true,,1083,979,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,51,0,0
+1558693790639,95,GenereteRecipe-1,200,OK,Users 1-3,text,true,,4373,1114,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,95,0,0
+1558693790637,190,AddingIngredient,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 4 677 bytes, but should have been less than 1 000 bytes.",4677,1330,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,83,0,0
+1558693790637,83,AddingIngredient-0,302,Found,Users 1-4,text,true,,466,700,10,10,http://vol4-capybara.herokuapp.com/ingredients,83,0,0
+1558693790720,107,AddingIngredient-1,200,OK,Users 1-4,text,true,,4211,630,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,107,0,0
+1558693790731,192,AddingIngredient,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 4 693 bytes, but should have been less than 1 000 bytes.",4693,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693790731,76,AddingIngredient-0,302,Found,Users 1-2,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,76,0,0
+1558693790807,116,AddingIngredient-1,200,OK,Users 1-2,text,true,,4227,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,116,0,51
+1558693790851,72,LoginPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4036,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,66,0,0
+1558693790827,113,GenereteRecipe,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5416,2069,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,56,0,0
+1558693790827,56,GenereteRecipe-0,302,Found,Users 1-4,text,true,,1055,983,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,56,0,0
+1558693790883,57,GenereteRecipe-1,200,OK,Users 1-4,text,true,,4361,1086,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693790853,136,AddingIngredient,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 4 691 bytes, but should have been less than 1 000 bytes.",4691,1302,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,73,0,0
+1558693790853,73,AddingIngredient-0,302,Found,Users 1-7,text,true,,466,686,10,10,http://vol4-capybara.herokuapp.com/ingredients,73,0,0
+1558693790926,63,AddingIngredient-1,200,OK,Users 1-7,text,true,,4225,616,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693790924,135,GenereteRecipe,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5454,2109,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693790924,65,GenereteRecipe-0,302,Found,Users 1-2,text,true,,1075,1003,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,65,0,0
+1558693790989,70,GenereteRecipe-1,200,OK,Users 1-2,text,true,,4379,1106,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693790901,183,AddingIngredient,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 4 702 bytes, but should have been less than 1 000 bytes.",4702,1306,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,59,0,0
+1558693790901,59,AddingIngredient-0,302,Found,Users 1-1,text,true,,466,688,10,10,http://vol4-capybara.herokuapp.com/ingredients,59,0,0
+1558693790960,124,AddingIngredient-1,200,OK,Users 1-1,text,true,,4236,618,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,118,0,44
+1558693790989,128,GenereteRecipe,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5459,2091,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693790989,72,GenereteRecipe-0,302,Found,Users 1-7,text,true,,1073,987,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,72,0,0
+1558693791061,56,GenereteRecipe-1,200,OK,Users 1-7,text,true,,4386,1104,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,55,0,0
+1558693791071,52,LoginPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4040,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,51,0,0
+1558693791085,110,GenereteRecipe,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5445,2114,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,50,0,0
+1558693791085,50,GenereteRecipe-0,302,Found,Users 1-1,text,true,,1077,1006,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,50,0,0
+1558693791135,60,GenereteRecipe-1,200,OK,Users 1-1,text,true,,4368,1108,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,53,0,0
+1558693791125,77,RegisterPage,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4126,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,74,0,0
+1558693791092,117,AddingIngredient,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 4 683 bytes, but should have been less than 1 000 bytes.",4683,1310,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,53,0,0
+1558693791092,53,AddingIngredient-0,302,Found,Users 1-10,text,true,,466,690,10,10,http://vol4-capybara.herokuapp.com/ingredients,53,0,0
+1558693791145,64,AddingIngredient-1,200,OK,Users 1-10,text,true,,4217,620,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693791168,58,LoginPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4029,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693791221,66,LoginPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4032,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693791228,84,RegisterPage,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,83,0,0
+1558693790931,411,RegisterPage,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,71,0,0
+1558693791196,163,AddingIngredient,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 4 690 bytes, but should have been less than 1 000 bytes.",4690,1322,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693791196,61,AddingIngredient-0,302,Found,Users 1-9,text,true,,466,696,10,10,http://vol4-capybara.herokuapp.com/ingredients,61,0,0
+1558693791257,102,AddingIngredient-1,200,OK,Users 1-9,text,true,,4224,626,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,100,0,0
+1558693791209,150,GenereteRecipe,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5465,2106,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693791209,65,GenereteRecipe-0,302,Found,Users 1-10,text,true,,1081,994,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,65,0,0
+1558693791274,85,GenereteRecipe-1,200,OK,Users 1-10,text,true,,4384,1112,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,83,0,0
+1558693791289,81,RegisterPage,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4113,381,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,80,0,0
+1558693791323,68,LoginPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4040,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,66,0,0
+1558693791298,96,LoggingIn,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,731,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,96,0,0
+1558693791263,200,AddingIngredient,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 4 699 bytes, but should have been less than 1 000 bytes.",4699,1318,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,92,0,0
+1558693791263,92,AddingIngredient-0,302,Found,Users 1-6,text,true,,466,694,10,10,http://vol4-capybara.herokuapp.com/ingredients,92,0,0
+1558693791356,107,AddingIngredient-1,200,OK,Users 1-6,text,true,,4233,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,104,0,41
+1558693791393,80,RegisterPage,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4111,389,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,77,0,0
+1558693791359,136,AddingIngredient,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 4 694 bytes, but should have been less than 1 000 bytes.",4694,1326,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693791359,64,AddingIngredient-0,302,Found,Users 1-5,text,true,,466,698,10,10,http://vol4-capybara.herokuapp.com/ingredients,64,0,0
+1558693791423,72,AddingIngredient-1,200,OK,Users 1-5,text,true,,4228,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,68,0,0
+1558693791417,79,LoggingIn,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693791457,66,LoggingIn,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,725,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,66,0,0
+1558693791358,165,AddingIngredient,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 4 695 bytes, but should have been less than 1 000 bytes.",4695,1318,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693791358,78,AddingIngredient-0,302,Found,Users 1-8,text,true,,466,694,10,10,http://vol4-capybara.herokuapp.com/ingredients,78,0,0
+1558693791436,87,AddingIngredient-1,200,OK,Users 1-8,text,true,,4229,624,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693791359,170,GenereteRecipe,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5453,2083,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,78,0,0
+1558693791359,78,GenereteRecipe-0,302,Found,Users 1-9,text,true,,1065,987,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,78,0,0
+1558693791437,92,GenereteRecipe-1,200,OK,Users 1-9,text,true,,4388,1096,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,86,0,0
+1558693791438,116,LoggingIn,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,102,0,0
+1558693791485,99,LoginPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4034,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693791464,165,GenereteRecipe,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5467,2105,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,89,0,0
+1558693791464,89,GenereteRecipe-0,302,Found,Users 1-6,text,true,,1079,995,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,89,0,0
+1558693791553,76,GenereteRecipe-1,200,OK,Users 1-6,text,true,,4388,1110,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693791524,148,GenereteRecipe,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5452,2095,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693791524,65,GenereteRecipe-0,302,Found,Users 1-8,text,true,,1073,991,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,65,0,0
+1558693791590,82,GenereteRecipe-1,200,OK,Users 1-8,text,true,,4379,1104,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,82,0,0
+1558693791592,83,RegisterPage,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4102,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,83,0,0
+1558693791495,195,GenereteRecipe,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5418,2073,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,85,0,0
+1558693791495,85,GenereteRecipe-0,302,Found,Users 1-5,text,true,,1049,993,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,85,0,0
+1558693791580,110,GenereteRecipe-1,200,OK,Users 1-5,text,true,,4369,1080,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,110,0,45
+1558693791640,106,LoggingIn,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,723,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,100,0,0
+1558693791646,100,LoginPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4034,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,95,0,0
+1558693791741,71,LoginPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4031,399,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693791775,77,LoginPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4038,385,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693791762,93,LoggingIn,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,93,0,0
+1558693791751,104,RegisterPage,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4109,383,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,103,0,0
+1558693791811,55,LoginPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),4031,391,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,55,0,0
+1558693791818,65,RegisterPage,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4128,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,60,0,0
+1558693791869,66,RegisterPage,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4117,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,62,0,0
+1558693791854,81,RegisterPage,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 15 (allowed 0),4102,387,10,10,http://vol4-capybara.herokuapp.com/users/sign_up,81,0,0
+1558693792009,78,LoggingIn,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,75,0,0
+1558693791966,129,LoggingIn,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 3 773 bytes, but should have been less than 1 000 bytes.",3773,733,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,124,0,0
+1558693792047,81,LoggingIn,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 3 766 bytes, but should have been less than 1 000 bytes.",3766,729,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,81,0,0
+1558693792088,83,LoggingIn,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 3 779 bytes, but should have been less than 1 000 bytes.",3779,721,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693792323,121,AddingIngredient,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 4 692 bytes, but should have been less than 1 000 bytes.",4692,1314,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693792323,65,AddingIngredient-0,302,Found,Users 1-4,text,true,,466,692,10,10,http://vol4-capybara.herokuapp.com/ingredients,64,0,0
+1558693792388,56,AddingIngredient-1,200,OK,Users 1-4,text,true,,4226,622,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,52,0,0
+1558693792413,161,AddingIngredient,200,OK,Users 1-7,text,false,"The result was the wrong size: It was 4 699 bytes, but should have been less than 1 000 bytes.",4699,1326,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,66,0,0
+1558693792413,66,AddingIngredient-0,302,Found,Users 1-7,text,true,,466,698,10,10,http://vol4-capybara.herokuapp.com/ingredients,66,0,0
+1558693792479,95,AddingIngredient-1,200,OK,Users 1-7,text,true,,4233,628,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693792444,140,GenereteRecipe,200,OK,Users 1-4,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5440,2089,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,53,0,0
+1558693792444,53,GenereteRecipe-0,302,Found,Users 1-4,text,true,,1069,989,10,10,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,53,0,0
+1558693792497,87,GenereteRecipe-1,200,OK,Users 1-4,text,true,,4371,1100,10,10,http://vol4-capybara.herokuapp.com/users/sign_in,87,0,0
+1558693792495,152,AddingIngredient,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 4 702 bytes, but should have been less than 1 000 bytes.",4702,1330,9,9,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
+1558693792495,69,AddingIngredient-0,302,Found,Users 1-2,text,true,,466,700,9,9,http://vol4-capybara.herokuapp.com/ingredients,69,0,0
+1558693792564,83,AddingIngredient-1,200,OK,Users 1-2,text,true,,4236,630,9,9,http://vol4-capybara.herokuapp.com/users/sign_in,70,0,0
+1558693792575,141,GenereteRecipe,200,OK,Users 1-7,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5410,2069,9,9,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693792575,71,GenereteRecipe-0,302,Found,Users 1-7,text,true,,1047,991,9,9,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,71,0,0
+1558693792646,70,GenereteRecipe-1,200,OK,Users 1-7,text,true,,4363,1078,9,9,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693792452,280,AddingIngredient,200,OK,Users 1-3,text,false,"The operation lasted too long: It took 280 milliseconds, but should not have lasted longer than 200 milliseconds.",4683,1326,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,205,0,0
+1558693792452,205,AddingIngredient-0,302,Found,Users 1-3,text,true,,466,698,8,8,http://vol4-capybara.herokuapp.com/ingredients,205,0,0
+1558693792657,75,AddingIngredient-1,200,OK,Users 1-3,text,true,,4217,628,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,75,0,0
+1558693792628,112,AddingIngredient,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 4 682 bytes, but should have been less than 1 000 bytes.",4682,1342,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,53,0,0
+1558693792628,53,AddingIngredient-0,302,Found,Users 1-1,text,true,,466,706,8,8,http://vol4-capybara.herokuapp.com/ingredients,53,0,0
+1558693792681,59,AddingIngredient-1,200,OK,Users 1-1,text,true,,4216,636,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693792298,509,SpecificProductPage,200,OK,Users 1-8,text,false,"The operation lasted too long: It took 509 milliseconds, but should not have lasted longer than 200 milliseconds.",5109,1184,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693792298,65,SpecificProductPage-0,302,Found,Users 1-8,text,true,,903,572,8,8,http://vol4-capybara.herokuapp.com/products/287,65,0,0
+1558693792363,444,SpecificProductPage-1,200,OK,Users 1-8,text,true,,4206,612,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,353,0,0
+1558693792648,147,GenereteRecipe,200,OK,Users 1-2,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5446,2106,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,82,0,0
+1558693792648,82,GenereteRecipe-0,302,Found,Users 1-2,text,true,,1069,1006,8,8,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,82,0,0
+1558693792731,64,GenereteRecipe-1,200,OK,Users 1-2,text,true,,4377,1100,8,8,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693792741,136,GenereteRecipe,200,OK,Users 1-1,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5456,2097,7,7,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693792741,62,GenereteRecipe-0,302,Found,Users 1-1,text,true,,1081,985,7,7,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,62,0,0
+1558693792803,74,GenereteRecipe-1,200,OK,Users 1-1,text,true,,4375,1112,7,7,http://vol4-capybara.herokuapp.com/users/sign_in,74,0,0
+1558693792733,194,GenereteRecipe,200,OK,Users 1-3,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5466,2109,6,6,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693792733,76,GenereteRecipe-0,302,Found,Users 1-3,text,true,,1085,993,6,6,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,76,0,0
+1558693792810,117,GenereteRecipe-1,200,OK,Users 1-3,text,true,,4381,1116,6,6,http://vol4-capybara.herokuapp.com/users/sign_in,117,0,46
+1558693792907,138,AddingIngredient,200,OK,Users 1-9,text,false,"The result was the wrong size: It was 4 689 bytes, but should have been less than 1 000 bytes.",4689,1314,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,65,0,0
+1558693792907,66,AddingIngredient-0,302,Found,Users 1-9,text,true,,466,692,5,5,http://vol4-capybara.herokuapp.com/ingredients,65,0,0
+1558693792973,72,AddingIngredient-1,200,OK,Users 1-9,text,true,,4223,622,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,64,0,0
+1558693792924,124,AddingIngredient,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 4 700 bytes, but should have been less than 1 000 bytes.",4700,1302,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,50,0,0
+1558693792924,51,AddingIngredient-0,302,Found,Users 1-5,text,true,,466,686,5,5,http://vol4-capybara.herokuapp.com/ingredients,50,0,0
+1558693792975,73,AddingIngredient-1,200,OK,Users 1-5,text,true,,4234,616,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,72,0,0
+1558693793045,125,GenereteRecipe,200,OK,Users 1-9,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5436,2077,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693793045,61,GenereteRecipe-0,302,Found,Users 1-9,text,true,,1067,979,5,5,http://vol4-capybara.herokuapp.com/ingredients?Food_category=diner&Diet_category=meat&selected_ingredients[]=turkey&commit=Generate+a+recipe,61,0,0
+1558693793107,63,GenereteRecipe-1,200,OK,Users 1-9,text,true,,4369,1098,5,5,http://vol4-capybara.herokuapp.com/users/sign_in,63,0,0
+1558693793048,171,GenereteRecipe,200,OK,Users 1-5,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5458,2121,4,4,http://vol4-capybara.herokuapp.com/users/sign_in,76,0,0
+1558693793048,76,GenereteRecipe-0,302,Found,Users 1-5,text,true,,1087,1003,4,4,http://vol4-capybara.herokuapp.com/ingredients?Food_category=dessert&Diet_category=vegetarian&selected_ingredients[]=milk&commit=Generate+a+recipe,76,0,0
+1558693793125,94,GenereteRecipe-1,200,OK,Users 1-5,text,true,,4371,1118,4,4,http://vol4-capybara.herokuapp.com/users/sign_in,94,0,0
+1558693793121,123,AddingIngredient,200,OK,Users 1-10,text,false,"The result was the wrong size: It was 4 698 bytes, but should have been less than 1 000 bytes.",4698,1310,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693793121,57,AddingIngredient-0,302,Found,Users 1-10,text,true,,466,690,3,3,http://vol4-capybara.herokuapp.com/ingredients,57,0,0
+1558693793179,65,AddingIngredient-1,200,OK,Users 1-10,text,true,,4232,620,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,62,0,0
+1558693793244,130,GenereteRecipe,200,OK,Users 1-10,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5469,2117,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,58,0,0
+1558693793244,58,GenereteRecipe-0,302,Found,Users 1-10,text,true,,1085,1001,3,3,http://vol4-capybara.herokuapp.com/ingredients?Food_category=breakfast&Diet_category=vegan&selected_ingredients[]=almonds&commit=Generate+a+recipe,58,0,0
+1558693793302,72,GenereteRecipe-1,200,OK,Users 1-10,text,true,,4384,1116,3,3,http://vol4-capybara.herokuapp.com/users/sign_in,71,0,0
+1558693793371,135,AddingIngredient,200,OK,Users 1-8,text,false,"The result was the wrong size: It was 4 687 bytes, but should have been less than 1 000 bytes.",4687,1326,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,60,0,0
+1558693793371,61,AddingIngredient-0,302,Found,Users 1-8,text,true,,466,698,2,2,http://vol4-capybara.herokuapp.com/ingredients,60,0,0
+1558693793432,74,AddingIngredient-1,200,OK,Users 1-8,text,true,,4221,628,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,74,0,0
+1558693793374,133,AddingIngredient,200,OK,Users 1-6,text,false,"The result was the wrong size: It was 4 692 bytes, but should have been less than 1 000 bytes.",4692,1330,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,61,0,0
+1558693793374,61,AddingIngredient-0,302,Found,Users 1-6,text,true,,466,700,2,2,http://vol4-capybara.herokuapp.com/ingredients,61,0,0
+1558693793435,72,AddingIngredient-1,200,OK,Users 1-6,text,true,,4226,630,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
+1558693793507,124,GenereteRecipe,200,OK,Users 1-8,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5433,2089,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,56,0,0
+1558693793507,56,GenereteRecipe-0,302,Found,Users 1-8,text,true,,1065,993,2,2,http://vol4-capybara.herokuapp.com/ingredients?Food_category=lunch&Diet_category=gluten&selected_ingredients[]=carrot&commit=Generate+a+recipe,56,0,0
+1558693793563,68,GenereteRecipe-1,200,OK,Users 1-8,text,true,,4368,1096,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,60,0,0
+1558693793508,126,GenereteRecipe,200,OK,Users 1-6,text,false,Tidy Parser errors:   0 (allowed 0) Tidy Parser warnings: 14 (allowed 0),5466,2104,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,57,0,0
+1558693793508,57,GenereteRecipe-0,302,Found,Users 1-6,text,true,,1077,996,2,2,http://vol4-capybara.herokuapp.com/ingredients?Food_category=supper&Diet_category=vegetarian&selected_ingredients[]=onions&commit=Generate+a+recipe,57,0,0
+1558693793565,69,GenereteRecipe-1,200,OK,Users 1-6,text,true,,4389,1108,2,2,http://vol4-capybara.herokuapp.com/users/sign_in,69,0,0
