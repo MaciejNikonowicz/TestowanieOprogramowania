@@ -10,7 +10,7 @@ driver = webdriver.Chrome(os.getcwd()+'\drivers\chromedriver.exe')
 
 logging('admin@admin.com', 'password', driver)
 
-with open("products.csv", encoding="utf8") as csvDataFile:
+with open("csv/products.csv", encoding="utf8") as csvDataFile:
     csvReader = csv.DictReader(csvDataFile)
     for row in csvReader:
         name = row['name']

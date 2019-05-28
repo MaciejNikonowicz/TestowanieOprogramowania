@@ -20,9 +20,11 @@ with open("csv/logins.csv", encoding="utf8") as csvDataFile:
             driver.save_screenshot("screenshots/admin-login.png")
         assert "Check your fridge" in driver.page_source
         driver.save_screenshot("screenshots/login/user-login" + email.upper() + ".png")
+        print('User ' + email + ' logged in')
         driver.find_element_by_id("navbar-wagon-menu").click()
         driver.find_element_by_xpath("/html/body/div[1]/div/div/div/ul/li[2]/a").click()
         driver.find_element_by_xpath("/html/body/div[1]/div/a[1]").click()
+        print(email + ' logged out')
         time.sleep(3)
 
 driver.quit()
