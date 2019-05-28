@@ -41,5 +41,5 @@ for x in ingredients:
         alert.accept()
         time.sleep(2)
 
-print("New ingredient " + product + " added successfully")
+print("New ingredient " + product + " added successfully and then deleted")
 driver.quit()

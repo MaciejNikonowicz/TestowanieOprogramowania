@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c097b1f4-4152-41b9-94cd-d6122ad0f484" name="Default Changelist" comment="" />
+    <list default="true" id="c097b1f4-4152-41b9-94cd-d6122ad0f484" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/login_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_ingredient.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_ingredient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.py" beforeDir="false" afterPath="$PROJECT_DIR$/products.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,112 +45,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-235061662">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="91" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="91" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="27" column="90" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="90" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generate_recipes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" column="55" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edit_product.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="31" column="101" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="101" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/edit_ingredient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login_func.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/registration.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <marker date="1558592533491" expanded="true" signature="573:574" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_ingredient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="70" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,19 +85,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login_func.py" />
-        <option value="$PROJECT_DIR$/login_csv.py" />
         <option value="$PROJECT_DIR$/edit_product.py" />
         <option value="$PROJECT_DIR$/ingredients_sample.py" />
-        <option value="$PROJECT_DIR$/products.py" />
         <option value="$PROJECT_DIR$/registration.py" />
         <option value="$PROJECT_DIR$/ingredients_error.py" />
         <option value="$PROJECT_DIR$/sandbox.py" />
-        <option value="$PROJECT_DIR$/new_ingredient.py" />
         <option value="$PROJECT_DIR$/edit_ingredient.py" />
+        <option value="$PROJECT_DIR$/products.py" />
+        <option value="$PROJECT_DIR$/new_ingredient.py" />
+        <option value="$PROJECT_DIR$/login_csv.py" />
       </list>
     </option>
   </component>
@@ -176,6 +109,7 @@
     <option name="width" value="1945" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -186,23 +120,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="testy_automatyczne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy_automatyczne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testy_automatyczne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy_automatyczne" type="462c0819:PsiDirectoryNode" />
-              <item name="csv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testy_automatyczne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy_automatyczne" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testy_automatyczne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testy_automatyczne" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="testy-automatyczne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testy-automatyczne" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.login_csv">
+  <component name="RunManager" selected="Python.edit_ingredient">
     <configuration name="edit_ingredient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testy_automatyczne" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ingredients_error" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generate_recipes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testy_automatyczne" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\nikonowicz\Documents\testing\testy_automatyczne\generate_recipes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_recipes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="registration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="new_ingredient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testy_automatyczne" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/registration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_ingredient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,19 +251,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.registration" />
-      <item itemvalue="Python.edit_product" />
-      <item itemvalue="Python.ingredients_error" />
-      <item itemvalue="Python.edit_ingredient" />
       <item itemvalue="Python.login_csv" />
+      <item itemvalue="Python.new_ingredient" />
+      <item itemvalue="Python.generate_recipes" />
+      <item itemvalue="Python.edit_product" />
+      <item itemvalue="Python.edit_ingredient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.login_csv" />
         <item itemvalue="Python.edit_ingredient" />
         <item itemvalue="Python.edit_product" />
-        <item itemvalue="Python.ingredients_error" />
-        <item itemvalue="Python.registration" />
+        <item itemvalue="Python.generate_recipes" />
+        <item itemvalue="Python.login_csv" />
+        <item itemvalue="Python.new_ingredient" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +283,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2504957" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2504957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,20 +316,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="22" />
+        <state>
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
             <marker date="1558592533491" expanded="true" signature="573:574" ph="..." />
@@ -420,8 +329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/products.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="27" column="90" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="90" />
+        <state relative-caret-position="21">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -430,38 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_ingredient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_recipes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edit_product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="31" column="101" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="101" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edit_ingredient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        <state relative-caret-position="343">
+          <caret line="43" column="73" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -470,6 +349,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login_func.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_recipes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_ingredient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" column="101" selection-start-line="31" selection-end-line="31" selection-end-column="101" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
